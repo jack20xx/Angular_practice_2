@@ -40,3 +40,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Local settings
+angular.json
+package-lock.json
+package.json
